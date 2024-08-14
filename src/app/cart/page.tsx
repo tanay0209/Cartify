@@ -50,7 +50,7 @@ function Page() {
                             router.push('/')
                         }}
                         className='bg-green-500 hover:bg-green-600 text-white px-4 w-full py-2 rounded-sm'>Checkout</button>
-                </div> </> : <p>Oops! Looks like your cart is empty, let's add some items to it <span className='text-blue-500 font-bold underline'><Link href="/">Shop Now</Link></span></p>}
+                </div> </> : <p>Oops! Looks like your cart is empty, let&apso;s add some items to it <span className='text-blue-500 font-bold underline'><Link href="/">Shop Now</Link></span></p>}
         </div>
     );
 }
