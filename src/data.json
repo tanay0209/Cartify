@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Earbuds",
+    "description": "High-quality sound with noise cancellation and long battery life.",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "price": 5999.25
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Tracker",
+    "description": "Track your steps, heart rate, and sleep patterns with this sleek wearable.",
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "price": 3749.25
+  },
+  {
+    "id": 3,
+    "name": "Portable Power Bank",
+    "description": "10000mAh capacity to keep your devices charged on the go.",
+    "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "price": 2249.25
+  },
+  {
+    "id": 4,
+    "name": "Stainless Steel Water Bottle",
+    "description": "Eco-friendly, insulated bottle to keep your drinks hot or cold.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "price": 1874.25
+  },
+  {
+    "id": 6,
+    "name": "Compact Digital Camera",
+    "description": "20MP sensor with 5x optical zoom for stunning photos.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "price": 14999.25
+  },
+  {
+    "id": 9,
+    "name": "Portable Bluetooth Speaker",
+    "description": "Waterproof speaker with 360-degree sound and 12-hour battery life.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "price": 4499.25
+  },
+  {
+    "id": 11,
+    "name": "Stainless Steel Chef's Knife",
+    "description": "Professional-grade 8-inch knife for precise cutting and chopping.",
+    "image": "https://images.unsplash.com/photo-1593618998160-e34014e67546?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "price": 5249.25
+  },
+  {
+    "id": 12,
+    "name": "Yoga Mat",
+    "description": "Non-slip, eco-friendly mat for yoga and fitness exercises.",
+    "image": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "price": 2249.25
+  },
+  {
+    "id": 13,
+    "name": "Wireless Gaming Mouse",
+    "description": "Ergonomic mouse with programmable buttons and adjustable DPI.",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "price": 4124.25
+  },
+  {
+    "id": 14,
+    "name": "Aromatherapy Essential Oil Diffuser",
+    "description": "Ultrasonic diffuser with LED lights for relaxation and air freshening.",
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "price": 2999.25
+  },
+  {
+    "id": 15,
+    "name": "Insulated Travel Mug",
+    "description": "Leak-proof, vacuum-insulated mug to keep drinks hot or cold for hours.",
+    "image": "https://images.unsplash.com/photo-1577937927133-66ef06acdf18?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "price": 1874.25
+  },
+  {
+    "id": 16,
+    "name": "Mens Casual Shirt",
+    "description": "Casual shirt for men",
+    "image": "https://images.unsplash.com/photo-1602810320073-1230c46d89d4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 1000
+  }
+]
